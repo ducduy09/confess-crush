@@ -1,13 +1,13 @@
 const CONFIG = {
-    titleWeb: "Phan Võ Thùy Dương",
-    introTitle: 'Phan Võ Thùy Dương',
+    titleWeb: "Valentine",
+    introTitle: 'Quà tặng vợ cô giáo iu dấu <3',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Nhân dịp Valentine 🥰',
+    desc: 'Chúc cô giáo của a ngày càng xinh đẹp, yêu a nhiều hơn và ngoan nghe lời a nhaaa ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
