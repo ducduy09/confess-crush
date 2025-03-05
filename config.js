@@ -1,13 +1,11 @@
 const CONFIG = {
-    titleWeb: "Valentine",
-    introTitle: 'Quà tặng vợ cô giáo iu dấu <3',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Chúc mừng 8/3",
+    introTitle: 'Quà tặng vợ Mai Anh iu dấu <3',
+    introDesc: `Nắng hoàng hôn ai tô mà đỏ...
+    Thương em rồi có bỏ được đâuu <3`,
     btnIntro: '^^HiHi^^',
-    title: 'Nhân dịp Valentine 🥰',
-    desc: 'Chúc cô giáo của a ngày càng xinh đẹp, yêu a nhiều hơn và ngoan nghe lời a nhaaa ',
+    title: 'Nhân dịp ngày 8/3 🥰',
+    desc: 'Chúc vợ iu của a ngày càng xinh đẹp, yêu a nhiều hơn và ngoan nghe lời a nhaaa ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
